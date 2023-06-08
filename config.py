@@ -7,4 +7,4 @@ ADMIN = int(environ.get("ADMIN", "1640783367"))
 CAPTION = environ.get("CAPTION", "nothing boy")
 
 class temp(object):
-    THUMBNAIL = environ.get("THUMBNAIL", "")
+    THUMBNAIL = environ.get("THUMBNAIL", "https://graph.org/file/2a2028f15ccca88ad7b35.jpg")
